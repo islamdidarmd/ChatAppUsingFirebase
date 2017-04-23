@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "26933610720",
+    "firebase_url": "https://chat-app-64584.firebaseio.com",
+    "project_id": "chat-app-64584",
+    "storage_bucket": "chat-app-64584.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26933610720:android:990ffccf01a92825",
+        "android_client_info": {
+          "package_name": "com.didar.mobile.chatusingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26933610720-6c5qsijf2hb4sldk0k3ajjrjs23dvhra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYSI4eqIJB8ygSspDrE7kk8gpNlLBPovU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
